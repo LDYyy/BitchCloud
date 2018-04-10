@@ -4,4 +4,4 @@
 #Slogon
 婊子云——随时随地发现新的婊子。
 
-!()[https://github.com/hupo376787/BitchCloud/blob/master/Logo/%E5%A9%8A%E5%AD%90%E4%BA%91.png]
+![婊子云](https://github.com/hupo376787/BitchCloud/blob/master/Logo/%E5%A9%8A%E5%AD%90%E4%BA%91.png)
